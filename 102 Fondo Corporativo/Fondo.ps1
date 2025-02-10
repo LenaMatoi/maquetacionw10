@@ -1,5 +1,5 @@
 # Definir la URL base y la carpeta destino
-$BaseUrl = "http://lenamatoi.sytes.net/wallpaper/"
+$BaseUrl = "http://lab.matoicorp.sytes.net/intwallpaper/"
 $DestinationFolder = "C:\Windows\Web\Wallpaper\Valorant"
 
 # Obtener el nombre de la máquina (ignorar mayúsculas/minúsculas)
